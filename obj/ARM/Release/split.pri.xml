@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="53686Domdom429.CarRevAppDom" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CarRevApp.xr.xml" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/CarRevApp.xr.xml">
+				<Candidate type="Path">
+					<Value>CarRevApp.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound1.jpg" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound1.jpg">
+					<Candidate type="Path">
+						<Value>Assets\sound1.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound1.wav" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound1.wav">
+					<Candidate type="Path">
+						<Value>Assets\sound1.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound10.jpg" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound10.jpg">
+					<Candidate type="Path">
+						<Value>Assets\sound10.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound10.wav" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound10.wav">
+					<Candidate type="Path">
+						<Value>Assets\sound10.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound2.jpg" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound2.jpg">
+					<Candidate type="Path">
+						<Value>Assets\sound2.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound2.wav" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound2.wav">
+					<Candidate type="Path">
+						<Value>Assets\sound2.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound3.jpg" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound3.jpg">
+					<Candidate type="Path">
+						<Value>Assets\sound3.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound3.wav" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound3.wav">
+					<Candidate type="Path">
+						<Value>Assets\sound3.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound4.jpeg" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound4.jpeg">
+					<Candidate type="Path">
+						<Value>Assets\sound4.jpeg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound4.wav" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound4.wav">
+					<Candidate type="Path">
+						<Value>Assets\sound4.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound5.jpg" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound5.jpg">
+					<Candidate type="Path">
+						<Value>Assets\sound5.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound5.wav" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound5.wav">
+					<Candidate type="Path">
+						<Value>Assets\sound5.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound6.jpg" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound6.jpg">
+					<Candidate type="Path">
+						<Value>Assets\sound6.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound6.wav" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound6.wav">
+					<Candidate type="Path">
+						<Value>Assets\sound6.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound7.jpg" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound7.jpg">
+					<Candidate type="Path">
+						<Value>Assets\sound7.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound7.wav" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound7.wav">
+					<Candidate type="Path">
+						<Value>Assets\sound7.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound8.jpg" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound8.jpg">
+					<Candidate type="Path">
+						<Value>Assets\sound8.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound8.wav" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound8.wav">
+					<Candidate type="Path">
+						<Value>Assets\sound8.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound9.jpg" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound9.jpg">
+					<Candidate type="Path">
+						<Value>Assets\sound9.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sound9.wav" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/sound9.wav">
+					<Candidate type="Path">
+						<Value>Assets\sound9.wav</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://53686Domdom429.CarRevAppDom/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

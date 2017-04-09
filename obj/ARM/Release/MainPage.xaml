@@ -1,0 +1,70 @@
+﻿<Page
+    x:Class="CarRevApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CarRevApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Padding="0" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.15*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="0.5*"/>
+        </Grid.ColumnDefinitions>
+
+
+        <Button x:ConnectionId='1' x:Name="sound1" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                     >
+            <Image Source="Assets/sound1.jpg" Stretch="Fill"/>
+        </Button>
+
+        <Button x:ConnectionId='2' x:Name="sound2" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                     >
+            <Image Source="Assets/sound2.jpg" Stretch="Fill"/>
+        </Button>
+
+        <Button x:ConnectionId='3' x:Name="sound3" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                     >
+            <Image Source="Assets/sound3.jpg" Stretch="Fill"/>
+        </Button>
+
+        <Button x:ConnectionId='4' x:Name="sound4" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                     >
+            <Image Source="Assets/sound4.jpeg" Stretch="Fill"/>
+        </Button>
+
+        <Button x:ConnectionId='5' x:Name="sound5" Grid.Row="4" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                     >
+            <Image Source="Assets/sound5.jpg" Stretch="Fill"/>
+        </Button>
+
+        <Button x:ConnectionId='6' x:Name="sound6" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                     >
+            <Image Source="Assets/sound6.jpg" Stretch="Fill"/>
+        </Button>
+
+        <Button x:ConnectionId='7' x:Name="sound7" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                     >
+            <Image Source="Assets/sound7.jpg" Stretch="Fill"/>
+        </Button>
+
+        <Button x:ConnectionId='8' x:Name="sound8" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                     >
+            <Image Source="Assets/sound8.jpg" Stretch="Fill"/>
+        </Button>
+
+        <Button x:ConnectionId='9' x:Name="sound9" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                     >
+            <Image Source="Assets/sound9.jpg" Stretch="Fill"/>
+        </Button>
+
+        <Button x:ConnectionId='10' x:Name="sound10" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                      >
+            <Image Source="Assets/sound10.jpg" Stretch="Fill"/>
+        </Button>
+
+        <TextBlock x:ConnectionId='11' x:Name="textBlock" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" TextAlignment="Center" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </Grid>
+
+</Page>
+
